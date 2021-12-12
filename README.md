@@ -1,2 +1,2 @@
 # Three-Ecologies
- This project was developed as part of a commission by the artist [Jaclyn Jacunski](https://jaclynjacunski.com/home.html) for the 2019 Terrain Biennial in Chicago. Amay was engaged to create an interactive real-time live-streaming project, which showed the entire text called Three Ecologies by Felix Guattari as subtitles on top of the work. 
+ This project was developed as part of a commission by the artist [Jaclyn Jacunski](https://jaclynjacunski.com/home.html) for the 2019 Terrain Biennial in Chicago. Amay was engaged to create an interactive real-time live-streaming project, which showed the entire text called Three Ecologies by Felix Guattari as subtitles on top of the on-going live-stream. 
