@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Terrain_Backyard>
+	<Top_Strings>
+		<Writer_Y_Pos>341.633</Writer_Y_Pos>
+		<Title_Y_Pos>424.286</Title_Y_Pos>
+		<Year_Y_Pos>501.429</Year_Y_Pos>
+		<Top_Font_Size>44.6429</Top_Font_Size>
+		<Writer_X_Pos>685.714</Writer_X_Pos>
+		<Title_X_Pos>577.959</Title_X_Pos>
+		<Year_X_Pos>862.041</Year_X_Pos>
+	</Top_Strings>
+	<Middle_Strings>
+		<Quote_Y_Pos>573.061</Quote_Y_Pos>
+		<Quote_Writer_Y_Pos>622.653</Quote_Writer_Y_Pos>
+		<Middle_Font_Size>20.7143</Middle_Font_Size>
+		<Quote_X_Pos>313.469</Quote_X_Pos>
+		<Quote_Writer_X_Pos>813.061</Quote_Writer_X_Pos>
+	</Middle_Strings>
+	<Bottom_Strings>
+		<Subtitle_Y_Pos>909.184</Subtitle_Y_Pos>
+		<Wait_Time>123</Wait_Time>
+		<Max_Strings>14</Max_Strings>
+		<Bottom_Font_Size>16</Bottom_Font_Size>
+	</Bottom_Strings>
+	<Video_Params>
+		<Blur_Amount>8.77551</Blur_Amount>
+	</Video_Params>
+	<Opacity_Time>1000</Opacity_Time>
+</Terrain_Backyard>
