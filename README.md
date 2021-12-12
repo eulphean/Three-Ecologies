@@ -1,4 +1,4 @@
-# Three-Ecologies
+# Three Ecologies
 As part of the 2019 Terrain Biennial, Amay Kataria was commissioned by the artist [Jaclyn Jacunski](https://jaclynjacunski.com/home.html) to created [Three Ecologies](https://amaykataria.com/#/ThreeEcologies). He created an interactive real-time live-streaming application, which showed the entire text called Three Ecologies by Felix Guattari as subtitles on top of the on-going live-stream. 
 
 This project was developed using an open-source creative coding library called [Open-Frameworks](https://openframeworks.cc/). 
